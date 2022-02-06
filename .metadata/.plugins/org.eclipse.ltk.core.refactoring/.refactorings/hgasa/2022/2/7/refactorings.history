@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Second_Demo.java&apos; to &apos;hgasa/src/com.jbk.switchcase.demo&apos;&#x0D;&#x0A;- Original project: &apos;hgasa&apos;&#x0D;&#x0A;- Destination element: &apos;hgasa/src/com.jbk.switchcase.demo&apos;&#x0D;&#x0A;- Original element: &apos;com.jbk.switchcase.demo.Second_Demo.java&apos;" description="Copy compilation unit" destination="/src&lt;com.jbk.switchcase.demo" element1="/src&lt;com.jbk.switchcase.demo{Second_Demo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644124747312" units="1" version="1.0"/>
+</session>
