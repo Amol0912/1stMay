@@ -1,0 +1,21 @@
+package agsva;
+
+public class ChainingDemo {
+	
+	
+	public ChainingDemo()
+	{
+		System.out.println("default constructor");
+	}
+
+	public ChainingDemo(String str)
+	{
+		System.out.println("constructor with single parameter");
+	}
+	
+	
+	public ChainingDemo(String str)
+	{
+		System.out.println("constructor with double parameter");
+	}
+}

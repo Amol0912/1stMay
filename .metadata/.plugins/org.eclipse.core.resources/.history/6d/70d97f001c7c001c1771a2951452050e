@@ -1,0 +1,23 @@
+package com.jbk.switchcase.demo;
+
+public class Second_Demo {
+
+	public static void main(String[] args) 
+	{
+		
+		String s= "Amol";
+		switch (s)
+		{
+		case "Amol" : System.out.println("he is amol");
+		
+		
+		
+		}
+	}
+	
+	
+	
+
+	}
+
+

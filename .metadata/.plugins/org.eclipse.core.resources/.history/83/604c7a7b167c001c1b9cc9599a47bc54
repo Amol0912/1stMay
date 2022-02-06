@@ -1,0 +1,9 @@
+package Looping;
+
+public class Forloop_Demo {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

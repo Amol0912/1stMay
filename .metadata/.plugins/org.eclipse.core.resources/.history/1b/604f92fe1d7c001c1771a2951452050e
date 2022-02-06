@@ -1,0 +1,12 @@
+package agsva;
+
+public class ChainingDemo {
+	
+	
+	public ChainingDemo(){
+		
+		
+		System.out.println("default constructor");
+	}
+
+}

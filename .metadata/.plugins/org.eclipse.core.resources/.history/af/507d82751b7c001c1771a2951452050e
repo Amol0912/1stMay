@@ -1,0 +1,21 @@
+package com.jbk.switchcase.demo;
+
+public class First_Demo {
+
+	public static void main(String[] args) {
+		
+		int a =1; 
+		switch(a){
+		case 1 :    System.out.println("one");
+			
+			
+		
+		
+		}
+		
+		
+		
+
+	}
+
+}

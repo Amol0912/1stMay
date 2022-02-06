@@ -1,0 +1,21 @@
+package com.jbk.switchcase.demo;
+
+public class Second_Demo {
+
+	public static void main(String[] args) 
+	{
+		
+		String s= "Amol";
+		switch (s)
+		{
+		
+		
+		}
+	}
+	
+	
+	
+
+	}
+
+

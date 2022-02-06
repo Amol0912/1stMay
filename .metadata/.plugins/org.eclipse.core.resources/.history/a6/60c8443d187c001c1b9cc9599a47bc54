@@ -1,0 +1,6 @@
+package Looping;
+
+public class Snippet {
+	String s3 = "patil";
+}
+
